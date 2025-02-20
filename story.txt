@@ -1,0 +1,15 @@
+Legend of Git: El Guardián del Código Perdido
+
+En un mundo digital amenazado por el caos y la corrupción del código, un joven desarrollador llamado Ethan Commitson descubre su destino como el último Guardián del Repositorio Sagrado.
+
+Todo comienza cuando un antiguo programador, conocido como El Sabio Mergeus, le entrega un misterioso archivo llamado .gitlegend. En su interior, se oculta el código fuente de la primera versión del mundo digital, un sistema estable y puro antes de que la entidad maligna Bugoroth, el Devorador de Commits, corrompiera las líneas de código y creara un reino de errores fatales y conflictos de fusión imposibles de resolver.
+
+La profecía habla de un héroe capaz de dominar las ramas del tiempo y restaurar la historia perdida del código. Para ello, Ethan debe recorrer el vasto repositorio de Gitlandia, enfrentando a los temibles Minions Merge Conflict, salvando archivos perdidos en el limbo del stash y derrotando a los legendarios Rebeldes Rebase, quienes han jurado reescribir la historia a su antojo.
+
+A lo largo de su viaje, Ethan se unirá a aliados valientes como Brancha, una hábil guerrera maestra en la división de tareas; y Sir Pullington, un caballero de la Orden del Pull Request, quien le enseñará la importancia de la colaboración y la revisión del código.
+
+Para restaurar la paz en Gitlandia, Ethan debe encontrar y fusionar las ramas sagradas del conocimiento: feature-legend-core, fix-bugoroth-corruption y style-clean-code, antes de que Bugoroth lance un git reset --hard sobre toda la realidad.
+
+Con cada commit que haga, se acercará más a la verdad, pero también al mayor desafío de todos: unificar la rama maestra y traer el orden al caos.
+
+¿Podrá Ethan restaurar la historia y salvar el mundo digital antes de que sea demasiado tarde? La última línea de código aún no está escrita...
