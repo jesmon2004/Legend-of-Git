@@ -13,3 +13,5 @@ Para restaurar la paz en Gitlandia, Ethan debe encontrar y fusionar las ramas sa
 Con cada commit que haga, se acercará más a la verdad, pero también al mayor desafío de todos: unificar la rama maestra y traer el orden al caos.
 
 ¿Podrá Ethan restaurar la historia y salvar el mundo digital antes de que sea demasiado tarde? La última línea de código aún no está escrita...
+
+Esto es el segundo cambio.
