@@ -16,9 +16,12 @@ public class Villain {
             System.out.println(name + " ha sido derrotado!");
         }
     }
+    
+    
 
     public String getName() {
         return name;
+        
     }
 }
 
